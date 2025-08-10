@@ -16,9 +16,9 @@ This is a web-based game where two players roll a die. The game automatically de
 
 ## 📸 Screenshot
 
-<img width="1920" height="1080" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/672d4795-8368-45dd-ac8b-985cbea2b215" />
-<img width="1920" height="1080" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/a597b3dd-72b1-4973-87cb-e3d94b4d16e2" />
-<img width="1920" height="1080" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/eabaea02-45bb-40f9-bea0-05ae37ade485" />
+<img width="192" height="108" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/672d4795-8368-45dd-ac8b-985cbea2b215" />
+<img width="192" height="108" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/a597b3dd-72b1-4973-87cb-e3d94b4d16e2" />
+<img width="192" height="108" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/eabaea02-45bb-40f9-bea0-05ae37ade485" />
 
 
 ## 🛠️ Technologies Used
