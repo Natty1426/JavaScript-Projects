@@ -21,9 +21,18 @@ image2.setAttribute("src", randomImage2);
 
 
 if (randomNumber1 > randomNumber2){
-      document.querySelector("h1").innerHTML = "Player 1 Wins!!!";
+      document.querySelector("h1").textContent = "Player 1 Wins!!!";
 } else if (randomNumber2 > randomNumber1) {
-    document.querySelector("h1").innerHTML = "Player 2 Wins!!!";
+    document.querySelector("h1").textContent = "Player 2 Wins!!!";
 } else{
-    document.querySelector("h1").innerHTML = "Draw!!!";
+    document.querySelector("h1").textContent = "Draw!!!";
 }
+
+// For Games involving addition of the Dice values 
+
+// if (randomNumber1 === 6 && randomNumber2 === 6){
+//     document.querySelector("h1").classList.add("roll-again")
+//     document.querySelector("h1").innerHTML = "You got 12!!! Roll again"
+// } else {
+//     document.querySelector("h1").innerHTML = randomNumber1 + randomNumber2;
+// }

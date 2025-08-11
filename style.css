@@ -23,6 +23,10 @@ h1{
     text-shadow: 0 10px 10px rgb(0, 0, 0, 0.5);;
 }
 
+.roll-again{
+    font-size: 4rem;
+}
+
 .player{
     display: flex;
     flex-direction: row;
